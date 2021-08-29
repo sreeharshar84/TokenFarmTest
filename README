@@ -1,0 +1,12 @@
+How to accept DAI / USDC / Any other ERC20 Token from Metamask to your smart contract
+--------------------------------------------------------------------------------------
+
+Original code taken from Gregory's Dapp University:
+https://www.dappuniversity.com/videos/CgXQC4dbGUE
+https://github.com/dappuniversity/defi_tutorial
+
+Deploy TokenFarm contract on kovan:
+truffle migrate --network kovan --reset -f 2 
+
+UI:
+npm start run
